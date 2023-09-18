@@ -1,0 +1,37 @@
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.csproj.AssemblyReference.cache
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.AssemblyInfoInputs.cache
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.AssemblyInfo.cs
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.csproj.CoreCompileInputs.cache
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.RazorAssemblyInfo.cache
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.RazorAssemblyInfo.cs
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\appsettings.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Autherization test.staticwebassets.runtime.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Autherization test.exe
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Autherization test.deps.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Autherization test.runtimeconfig.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Autherization test.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Autherization test.pdb
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets\msbuild.Autherization test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets\msbuild.build.Autherization test.props
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Autherization test.props
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Autherization test.props
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\scopedcss\bundle\Autherization test.styles.css
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\scopedcss\projectbundle\Autherization test.bundle.scp.css
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.csproj.CopyComplete
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\refint\Autherization test.dll
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.pdb
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\Autherization test.genruntimeconfig.cache
+C:\Users\jespe\Desktop\School stuff\C#\Autherization test\obj\Debug\net7.0\ref\Autherization test.dll

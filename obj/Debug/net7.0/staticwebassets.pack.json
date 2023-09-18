@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jespe\\Desktop\\School stuff\\C#\\Autherization test\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Autherization test.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Autherization test.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jespe\\Desktop\\School stuff\\C#\\Autherization test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jespe\\Desktop\\School stuff\\C#\\Autherization test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jespe\\Desktop\\School stuff\\C#\\Autherization test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Autherization test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Autherization test.props",
+      "PackagePath": "build\\Autherization test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Autherization test.props",
+      "PackagePath": "buildMultiTargeting\\Autherization test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Autherization test.props",
+      "PackagePath": "buildTransitive\\Autherization test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

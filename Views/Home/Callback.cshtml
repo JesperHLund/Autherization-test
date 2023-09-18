@@ -1,0 +1,11 @@
+@using System.Xml
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">You are now logged in</h1>
+    <pre>@ViewData["id_token"]</pre>
+    <pre>@ViewData["userinfo"]</pre>
+    <a href="Home/Login">Login again</a>
+</div>

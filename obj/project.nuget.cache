@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsIxk+PTtSwld1r90eJCIuGZ2SGTDzNI4mxbQg8SY7nlmIzvdToYGmOslULI5yn91jGxCFeAmYQW5XV5Z5u8zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jespe\\Desktop\\School stuff\\C#\\Autherization test\\Autherization test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jespe\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0\\microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jespe\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.0\\microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\jespe\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0\\microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\jespe\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0\\microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\jespe\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.0\\system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
